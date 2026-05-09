@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/history.db
+data/*.csv
+.DS_Store
