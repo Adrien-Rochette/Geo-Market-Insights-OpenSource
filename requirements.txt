@@ -1,0 +1,6 @@
+streamlit
+osmnx
+geopandas
+folium
+streamlit-folium
+ollama  
